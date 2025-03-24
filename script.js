@@ -1,5 +1,5 @@
 const urlBase = 'https://api.openweathermap.org/data/2.5/weather';
-const API_KEY = '0d4f8fa00641a4a0516979f0dce86ea6';
+const API_KEY = 'API_KEY'; // Ingresar la API Key de OpenWeatherMap
 const diffKelvin = 273.15;
 
 
